@@ -1,0 +1,5 @@
+com\example\RestApi\controller\ProductContoller.class
+com\example\RestApi\RestApiApplication.class
+com\example\RestApi\models\entities\Product.class
+com\example\RestApi\models\repos\ProductRepo.class
+com\example\RestApi\services\ProductServices.class
